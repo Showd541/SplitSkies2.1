@@ -15,11 +15,6 @@
 			"Name": "NinjaCharacter",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d91461c6f5544d118198d6acaddb48e8"
-		},
-		{
-			"Name": "SaveExtension",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/91084f43b68047ac8da6fc88a7467936"
 		}
 	]
 }

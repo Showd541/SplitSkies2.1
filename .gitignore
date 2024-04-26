@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Language/BP_TextToTranslate.uasset
+Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/3V/D0GJTTEA10IEHXGFMZOJJ1.uasset
+Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/YL/SKLD0PLMXUBXVW2K50SATB.uasset
+Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/Z2/I4PFZUO46U6XL9U3TJFPGZ.uasset
+Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/H8/R0WZDQJL505PZEE0WFS6C0.uasset
+Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RK/377CFMBCHXMPK2HBVP45R1.uasset
+Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/53/GQ8H8IYZRGXUKLMYWCVIEP.uasset
